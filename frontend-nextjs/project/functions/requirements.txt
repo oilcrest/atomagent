@@ -5,7 +5,7 @@
 fastapi==0.104.1
 uvicorn[standard]==0.24.0
 pydantic==2.5.0
-python-multipart==0.0.6
+python-multipart==0.0.22
 
 # Database and ORM
 sqlalchemy==2.0.23
@@ -13,7 +13,7 @@ psycopg2-binary==2.9.9
 alembic==1.12.1
 
 # Utilities
-requests==2.31.0
+requests==2.33.0
 python-dotenv==1.0.0
 python-dateutil==2.8.2
 pytz==2023.3.post1
