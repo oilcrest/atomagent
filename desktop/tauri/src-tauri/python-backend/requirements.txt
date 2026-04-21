@@ -2,7 +2,7 @@
 # Optimized for compatibility and audio processing
 
 # Core web framework
-flask==2.3.3
+flask==3.1.3
 flask-cors==4.0.0
 
 # Audio processing
@@ -12,10 +12,10 @@ openwakeword==0.6.0
 websockets==12.0
 
 # HTTP and networking
-requests==2.32.3
+requests==2.33.0
 
 # Environment and configuration
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 
 # Database (optional, for future use)
 psycopg2-binary==2.9.10
